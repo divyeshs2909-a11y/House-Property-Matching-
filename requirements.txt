@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn[standard]
+pydantic
+streamlit>=1.30.0
+altair>=5
+google-genai
+joblib
+torch==2.2.2
+sentence-transformers==2.6.1
+transformers==4.39.3
